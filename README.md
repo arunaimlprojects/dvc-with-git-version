@@ -1,0 +1,1 @@
+# dvc-with-git-version
